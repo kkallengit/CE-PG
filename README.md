@@ -19,6 +19,7 @@ The source code includes the followings:
 
 $$\tilde{J}(\boldsymbol{\theta}_i)=\beta_i J(\pi(\boldsymbol{\theta}_i))+\frac{1-\beta_i}{N-1}\sum_{j\neq i}\mathcal{H}\big(\pi(\boldsymbol{\theta}_j),\pi(\boldsymbol{\theta}_i)\big)$$
 
+where $J(\pi(\boldsymbol{\theta}_i))$ represents the individual expected return of robot $i$ and $\mathcal{H}\big(\pi(\boldsymbol{\theta}_j),\pi(\boldsymbol{\theta}_i)\big)$ means robot $i$'s expected cross entropy which disperses the robots from each other.
 ## Dependencies
 - Python 3.7+
 - Numpy
