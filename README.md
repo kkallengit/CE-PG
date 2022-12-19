@@ -4,10 +4,10 @@ This repo includes the implementation of CE-PG Algorithm described in the paper 
 
 ## Description
 The source code includes the followings: 
-* `CEPG.py`: core code.
-* `env.py`: simulation environment.
-* `func.py`: target state estimation module.
-* `network.py`: 
+* `CEPG.py`: core code of CE-PG Algorithm. 
+* `env.py`: two canonical multi-robot effective test environments, namely OFFICE and MUSEUM.
+* `func.py`: tool functions used throughout the project.
+* `network.py`: specific input and output, amount of layers, number of nodes, and activation function design for neural networks.
 * `PTB_update.py`: 
 
 ## Core ideas for code
