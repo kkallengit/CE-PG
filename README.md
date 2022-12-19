@@ -1,16 +1,20 @@
-# CE-PG algorithm source code
-- The source code will be released after the paper is accepted.
+# Source code for CE-PG
+This repo includes the implementation of CE-PG Algorithm described in the paper **Cross Entropy Regularized Policy Gradient for Multi-Robot Non-Adversarial Moving Target Search**
 
-- Python files for CE-PG multi-robot search algorithm.
 
 ## Description
 The source code includes the followings: 
-* **CE-PG.py**: core code.
-* **env_multi_robot.py**: simulation environment.
-* **PTB_update.py**: target state estimation module.
+* **CEPG.py**: core code.
+* **env.py**: simulation environment.
+* **func.py**: target state estimation module.
+* **network.py**: 
+* **PTB_update.py**: 
 
-## Dependency
-torch (1.4.0)
+## Dependencies
+- Python 3.7+
+- Numpy
+- Pandas
+- torch
 
 ## Run
 ```
