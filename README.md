@@ -8,7 +8,8 @@ The source code includes the followings:
 * `env.py`: two canonical multi-robot effective test environments, namely OFFICE and MUSEUM.
 * `func.py`: tool functions used throughout the project.
 * `network.py`: specific input and output, amount of layers, number of nodes, and activation function design for neural networks.
-* `PTB_update.py`: 
+* `PTB_update.py`: PTB update function whose output is the composition of robot *state*.
+* 
 
 ## Core ideas for code
 - This code deals with the multi-robot efficient search (MuRES) for a non-adversarial moving target problem from the multi-agent reinforcement learning (MARL) perspective. 
