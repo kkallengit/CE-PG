@@ -9,7 +9,7 @@ The source code includes the followings:
 * `func.py`: tool functions used throughout the project.
 * `network.py`: specific input and output, amount of layers, number of nodes, and activation function design for neural networks.
 * `PTB_update.py`: PTB update function whose output is the composition of robot *state*.
-* `CE-PG demonstrative video.mp4`: A demonstrative video which demonstrates the framework of CE-PG, the physical experimental procedure and results, and the summary of the contributions of this paper.
+* `CE-PG demonstrative video.mp4`: a demonstrative video which demonstrates the framework of CE-PG, the physical experimental procedure and results, and the summary of the contributions of this paper.
 
 ## Core ideas for code
 - This code deals with the multi-robot efficient search (MuRES) for a non-adversarial moving target problem from the multi-agent reinforcement learning (MARL) perspective. 
