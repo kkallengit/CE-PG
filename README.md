@@ -1,5 +1,5 @@
 # Source code for CE-PG
-The repository includes the implementation of CE-PG Algorithm described in the paper **Cross Entropy Regularized Policy Gradient for Multi-Robot Non-Adversarial Moving Target Search**, and the benchmarks, namely MILP, D-MILP, FHPE, FHPE-SA and MARLs used for comparison.
+The repository includes the implementation of CE-PG Algorithm described in the paper **Cross Entropy Regularized Policy Gradient for Multi-Robot Non-Adversarial Moving Target Search**, and the benchmarks, namely MILP, D-MILP, FHPE, FHPE-SA and MARL methods used for comparison.
 
 
 ## Description
