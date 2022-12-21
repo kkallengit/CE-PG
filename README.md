@@ -1,5 +1,5 @@
 # Source code for CE-PG
-This repo includes the implementation of CE-PG Algorithm described in the paper **Cross Entropy Regularized Policy Gradient for Multi-Robot Non-Adversarial Moving Target Search**
+The repository includes the implementation of CE-PG Algorithm described in the paper **Cross Entropy Regularized Policy Gradient for Multi-Robot Non-Adversarial Moving Target Search**
 
 
 ## Description
